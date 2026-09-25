@@ -5,23 +5,23 @@
 <a href="#sobre-mim">
   <img src="./assets/sobreMim.svg" width="15%">
 </a>
-<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="10" height="1">
+<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="5" height="1">
 <a href="#tech-stack">
   <img src="./assets/techStack.svg" width="15%">
 </a>
-<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="10" height="1">
+<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="5" height="1">
 <a href="#arquitetura">
   <img src="./assets/Arquitetura.svg" width="15.7%">
 </a>
-<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="10" height="1">
+<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="5" height="1">
 <a href="#formacao">
   <img src="./assets/Formação.svg" width="15%">
 </a>
-<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="10" height="1">
+<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="5" height="1">
 <a href="#projetos">
   <img src="./assets/Projetos.svg" width="14.3%">
 </a>
-<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="10" height="1">
+<img src="https://raw.githubusercontent.com/png-icons/transparent/main/1x1.png" width="5" height="1">
 <a href="#contato">
   <img src="./assets/Contato.svg" width="15%">
 </a>
